@@ -1,0 +1,14 @@
+table, th, td {
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+    th{ 
+        background-color:aqua ;
+    }
+    td{
+        background-color: rgb(0, 255, 0);
+    }
+    
